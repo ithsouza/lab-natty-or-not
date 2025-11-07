@@ -1,51 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Projeto: Surreal Aesthetic Realms
 
-## 🚀 Introdução
+## Descrição
+Este projeto explora o potencial das IAs Generativas para criar paisagens surreais, misturando elementos de vaporwave, dreamcore e arte etérea. O objetivo é produzir imagens que transmitam sensação de sonho, leveza e mistério, utilizando apenas tecnologia de IA.
 
-> Woooow! Look at this 👀
+## Tecnologias Utilizadas
+- DALL·E (geração de imagens surreais e estéticas)
+- Prompt Engineering para ajustar estilo, iluminação e composição
+- Ferramentas nativas do ChatGPT para refinar o processo criativo
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## Processo de Criação
+O projeto começou com a definição do tema “Arte Surreal Aesthetic”, inspirado em elementos de vaporwave, dreamcore e cenários oníricos.  
+A criação seguiu estes passos:
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+1. Construção de prompts com foco em:
+   - Portais luminosos  
+   - Orbes brilhantes  
+   - Paleta rosa, roxo e azul  
+   - Paisagens minimalistas e etéreas  
 
-### Objetivos
+2. Geração de múltiplas versões até encontrar equilíbrio visual.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+3. Ajustes finos nos prompts para melhorar contraste, suavidade e profundidade.
 
-### Template
+4. Seleção final das imagens com maior impacto artístico.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## Resultados
+O principal resultado do projeto foi uma série de imagens surreais com forte estética vaporwave. As imagens apresentam:
 
-## 📒 Descrição
-Breve descrição do seu projeto
+- Composições geométricas  
+- Cores vibrantes e harmônicas  
+- Atmosfera de sonho e serenidade  
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Você pode adicionar as imagens geradas ao repositório na seção de resultados ou criar uma galeria.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## Reflexão 
+Criar algo “natty” com IA é desafiador porque exige equilibrar criatividade humana com a precisão da ferramenta. A IA gera imagens impressionantes, mas o toque artístico — escolher o estilo, o clima e o tipo de composição — vem do processo de construção do prompt. No final, é uma parceria entre imaginação e tecnologia.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<img width="1024" height="1536" alt="Im project" src="https://github.com/user-attachments/assets/4606f763-952d-4717-997c-652e15500737" />
